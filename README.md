@@ -1,4 +1,4 @@
-# Profile_t
+# Profile
 Personal profile template
 
 Using HTML
